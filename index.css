@@ -1,3 +1,4 @@
+
 a{
     text-decoration: none;
     color: black;
@@ -49,5 +50,8 @@ li{
     background-image: url(asset/hardy.png);
     background-position: bottom right;
     background-repeat: no-repeat;
+}
+p{
+    width: 50%;
 }
 
